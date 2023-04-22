@@ -1,1 +1,1 @@
-export { default as hello } from "./campaign/getAllCampaigns";
+export { default as getAllCampaigns } from "./campaign/getAllCampaigns";
